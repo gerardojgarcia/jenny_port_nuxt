@@ -8,7 +8,7 @@
       <div class="flex flex-col items-center">
 
         <h1 data-aos="fade-up" data-aos-duration="2000">Jennifer Payan</h1>
-        <strong data-aod="fade-up" data-aos-duration="2500" class="text-4xl font-normal">Artist. Archivist</strong>
+        <strong data-aod="fade-up" data-aos-duration="2500" class="text-4xl font-normal">Emerging Archivist and Art Professional</strong>
       </div>
 
 
@@ -16,7 +16,7 @@
     </div>
 </template>
 
-<style lang="scss" scoped>
+<style  scoped>
 
 #hero {
   height: 95vh;

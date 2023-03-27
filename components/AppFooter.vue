@@ -14,7 +14,7 @@ import AppNav from "~/components/AppNav.vue";
 
 </template>
 
-<style lang="scss" scoped>
+<style scoped>
 
 
 

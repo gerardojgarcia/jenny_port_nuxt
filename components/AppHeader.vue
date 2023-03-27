@@ -11,6 +11,6 @@ import AppNav from "~/components/AppNav.vue";
   </div>
 </template>
 
-<style lang="scss" scoped>
+<style  scoped>
 
 </style>
