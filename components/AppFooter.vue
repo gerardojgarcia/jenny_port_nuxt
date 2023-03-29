@@ -5,7 +5,7 @@ import AppNav from "~/components/AppNav.vue";
 </script>
 
 <template>
-    <footer class="w-full fixed z-10 bg-white ">
+    <footer class="w-full fixed z-10 bg-white hidden md:inline">
       <AppNav/>
 
 

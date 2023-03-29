@@ -6,7 +6,7 @@ import AppNav from "~/components/AppNav.vue";
 </script>
 
 <template>
-  <div>
+  <div class="flex w-full items-center md:hidden bg-white fixed  py-6 z-10">
   <AppNav/>
   </div>
 </template>
