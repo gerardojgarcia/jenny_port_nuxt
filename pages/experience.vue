@@ -118,6 +118,63 @@ const experiences = ref([
 
     ]
   },
+  {
+    id:9,
+    title: 'UCLA Chicano Studies Research Center',
+    date: '2022',
+    role: 'Undergraduate Student Researcher',
+    description: [
+      {item: 'Processed and condition inspected archival materials from cultural heritage collections.'},
+      {item: 'Rehoused and relabeled folders from the Cyclona and Gronk archives.'},
+
+
+
+
+
+
+
+    ]
+  },
+  {
+    id:10,
+    title: 'UCLA Chicano Studies Research Center',
+    date: '2020',
+    role: 'Archival Preservation and Research Intern',
+    description: [
+      {item: 'Introduced to archival principles and theory; processing art archives and cultural heritage collections; research and description for art objects; digital preservation and access; and other museum activities the CSRC performs to manage and provide access to their art collections.'},
+      {item: 'Focused on the role research and preservation in developing access, outreach, and user engagement for exhibitions.'},
+      {item: 'Researched objects in Gronk Paper archives and wrote descriptions in ArchivesSpace and Omeka.'},
+
+    ]
+  },
+  {
+    id:11,
+    title: 'Self-Help Graphics & Arts',
+    date: '2019-Present',
+    role: 'Teaching Artist Assistant',
+    description: [
+      {item: 'Facilitate mobile workshops in areas of printmaking, such as silkscreening, linocut, drypoint and monotype, among others.'},
+      {item: 'Setting up classroom/workshop space, materials and supplies for Teaching Artists; assisting Teaching Artists with supervision of children during classes; cleaning up classroom/workshop space at conclusion of class.'},
+      {item: 'Trained on peer-to-peer workshop facilitation, professional development, and social entrepreneurship.'},
+
+    ]
+  },
+  {
+    id:11,
+    title: 'Self-Help Graphics & Arts',
+    date: '2018',
+    role: 'Documentation and Archives Intern',
+    description: [
+      {item: 'Digitized, handled and organized Self Help Graphics & Art’s (SHG) serigraph collection.'},
+      {item: 'Updated catalogue information to SHG’s inventory and archive database'},
+      {item: 'Assisted staff with updating the website in preparation for Self Help Graphics & Art’s Annual Print Fair.'},
+      {item: 'Gained skills in archiving, digitizing, and researching print inventory for database, website and Annual Print Fair.'},
+
+
+    ]
+  },
+
+
 
   ])
 
