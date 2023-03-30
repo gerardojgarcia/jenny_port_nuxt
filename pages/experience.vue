@@ -2,7 +2,7 @@
 
 const experiences = ref([
 
-  ///add image links here
+  ///add experience information here
   {
     id:1,
     title: 'Academy of Motion Picture Arts and Sciences',
