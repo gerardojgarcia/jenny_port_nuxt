@@ -7,18 +7,16 @@ export default defineNuxtConfig({
         '@nuxtjs/tailwindcss',
 
     ],
-    app: {
-        pageTransition: { name: 'page', mode: 'out-in' }
-    },
+   
 
     app: {
         head: {
             charset: 'utf-16',
             viewport: 'width=500, initial-scale=1',
-            title: 'Jennifer Payan: Emerging Archivist and Artist',
+            title: 'Gerardo Garcia: Front End Developer Specializing in Vuejs',
             meta: [
                 {
-                    name: 'Jennifer Payan', content: "Emergins Arvchivist and Artist"
+                    name: 'Gerardo Garcia', content: "Front End Developer"
                 }
             ],
             link: [
@@ -29,6 +27,7 @@ export default defineNuxtConfig({
             },
 
         },
+        pageTransition: { name: 'page', mode: 'out-in' }
     },
 
     nitro: {

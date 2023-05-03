@@ -16,8 +16,9 @@
     <li>Based in Los Angeles</li>
 
     <li>Telephone: 323-232-2222</li>
-    <li>Email: payanjennifer9@gmail.com</li>
-    <li>LinkedIn:</li>
+    <li>Email: gergarcia9@gmail.com</li>
+    <li>github:<NuxtLink to="https://github.com/gerardojgarcia" class="hover:text-red-400 duration-200" > gerardojgarcia</NuxtLink></li>
+
   </ul>
 
 
@@ -40,15 +41,17 @@
 
       <ul>
 
-        <li>ArchivesSpace</li>
-        <li>FileMaker Pro</li>
-        <li>Axiell</li>
-        <li>Mimsy</li>
-        <li>Rosebud</li>
-        <li>Adobe Photoshop</li>
-        <li>Procreate</li>
-        <li>35MM, 120MM Film Scanning</li>
-        <li>SalesForce</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        
+        <li>Javascript</li>
+        <li>Vuejs</li>
+        <li>Nuxtjs</li>
+        <li>TailwindCSS</li>
+        <li>Typescript</li>
+
+
+
 
 
 

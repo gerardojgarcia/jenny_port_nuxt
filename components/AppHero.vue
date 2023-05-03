@@ -7,8 +7,8 @@
 
       <div class="flex flex-col items-center">
 
-        <h1 data-aos="fade-up" data-aos-duration="2000">Jennifer Payan</h1>
-        <strong data-aod="fade-up" data-aos-duration="2500" class=" font-normal">Emerging Archivist and Art Professional</strong>
+        <h1 data-aos="fade-up" data-aos-duration="2000">Gerardo Garcia</h1>
+        <strong data-aod="fade-up" data-aos-duration="2500" class=" font-normal">Front End Developer</strong>
       </div>
 
 
@@ -32,7 +32,7 @@
 }
 
 h1 {
-  font-size: min(4rem,10rem);
+  font-size: 15vw;
   text-align: center;
 
 }
